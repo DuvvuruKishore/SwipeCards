@@ -1,0 +1,61 @@
+.card{
+  margin-left: auto;
+  margin-right: auto;
+  width:400px;
+
+}
+.phoneNumber{
+    text-align: center;
+    padding: 10px;
+}
+
+.centerBlock {
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 16px;
+
+  }
+  .accordian{
+    display: flex;
+    justify-content: center;
+  }
+  
+  .otp{
+    padding-left:130px;
+  }
+  .enterOtp{
+    margin-right: 10px;
+    
+  }
+  .submit{
+      height:55px;
+      width: 120px;
+      
+    }
+    .detail{
+      text-align: center;
+    }
+
+    .headSignup{
+      color:black;
+      text-align: center;
+      margin-top: 150px;
+      
+      
+    }
+
+    .signIn{
+      width: 220vh;
+      height: 100vh;
+     /* background-image: url('value.png');*/
+     background-color: cadetblue;
+  
+    height: 100vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+  }
+  
